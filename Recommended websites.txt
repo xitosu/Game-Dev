@@ -1,0 +1,12 @@
+*A note of all the website I believe are key websited needed for creating this game or starting the creation of this game.
+
+Some pages introduced by Larry:
+
+Game Development Tutorial:
+http://xbox.create.msdn.com/en-US/education/tutorial/2dgame/getting_started
+
+Game Development Indie Game Tutorial: 
+http://xbox.create.msdn.com/en-us/education/gamedevelopment
+
+Microsoft XNA Game Studio 4.0 Refresh Download:
+http://www.microsoft.com/en-us/download/details.aspx?id=27599
